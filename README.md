@@ -71,7 +71,7 @@ Usage
     
 License
 -------
-Gw2Api - Ruby wrapper for Guild Wars 2 official API.
+    Gw2Api - Ruby wrapper for Guild Wars 2 official API.
     Copyright (C) 2013  Ricardo C. Fernández de C. <koshrf at gmail dot com>
 
     This program is free software: you can redistribute it and/or modify
